@@ -8,7 +8,7 @@ Version python stable — HamQSL vers DAPNET
 Récupère les données solaires depuis le flux XML HamQSL
 et les envoie sur DAPNET vers plusieurs callsigns.
 
-Dans lers constantes:
+Dans les constantes:
 Vous devez modifier les entrées "DAPNET_USER" et "DAPNET_PASS" avec vos identifiant DAPNET.
 Dans "CALLSIGNS" vous devez entrer les indicatifs des om's a qui seront envoyés les messages en pocsag
 Dans "TX_GROUP" vous devez renseigner sur quel groupe d'emetteurs seront envoyés les messages en pocsag
